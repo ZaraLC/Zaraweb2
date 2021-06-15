@@ -37,10 +37,7 @@ contact_links:
     icon_pack: fab
     name: Twitter
     link: 'https://twitter.com/Twitter'
-  - icon: researchgate
-    icon_pack: fab
-    name: Researchgate
-    link: 'https://www.researchgate.net/profile/Zaramasina-Clark'
+
 
 
 # Site header
