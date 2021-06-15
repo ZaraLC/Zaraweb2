@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Fellow (HRC Pacific Health Research)
     company: Victoria University of Wellington
     company_url: ''
-    company_logo: org-gc
+    company_logo:
     location: Wellington, New Zealand
     date_start: '2020-03-02'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Visting Research Scholar
     company: Michigan State University
     company_url: ''
-    company_logo: org-x
+    company_logo:
     location: Michigan
     date_start: '2018-02-26'
     date_end: '2020-02-26'
