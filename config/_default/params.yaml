@@ -21,12 +21,13 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: zaramasina.clark@vuw.ac.nz
-address: School of Biological Sciences
-  street: Level 2, Te Toki a Rata Building,
-          Victoria University of Wellington
-  city: Wellington
-  postcode: '6012'
-  country: New Zealand
+phone: 888 888 88 88
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
   country_code: US
 coordinates:
   latitude: '37.4275'
