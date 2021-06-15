@@ -37,7 +37,7 @@ experience:
     company: Michigan State University
     company_url: ''
     company_logo:
-    location: Michigan
+    location: Michigan, USA
     date_start: '2018-02-26'
     date_end: '2020-02-26'
     description: Postdoctoral research fellow in Dr James Ireland's lab
